@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Main"
 ---
       
-Hello, Website!
+Hello, I am Gani Agadilov! I am a graduate student of Department of Statistics.
