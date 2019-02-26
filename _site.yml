@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "STATUS"
+  title: "AGADILSTATUS"
   type: inverse
   left:
     - text: "Home"
