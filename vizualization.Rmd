@@ -1,4 +1,4 @@
 ---
-title: "Visuzlization"
+title: "Visualization"
 ---
- Vizualization section!
+ Visualization section!

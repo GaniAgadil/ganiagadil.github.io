@@ -2,4 +2,4 @@
 title: "Courses"
 ---
       
-Reserch section!
+Courses section!
