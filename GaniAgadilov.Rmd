@@ -5,9 +5,13 @@ date: "2/26/2019"
 output: pdf_document
 ---
 
-```{r}
+
+This is a link to my website : https://ganiagadil.github.io/index.html
+
+
+The main problem for this asssignment was prepearing the all components to run rmarkdown::render_site(). Running the code several times did not provide any results. I noticed there were only mistakes that related to the formats of the files. I used correct path and rihgt formats of the files and problem solved.
+I will probably use the website to collaborative work wich might involve some analitycal and research oriented projects.
 
 
 
-```
 
