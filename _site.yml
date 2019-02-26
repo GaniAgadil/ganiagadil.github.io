@@ -2,8 +2,24 @@ name: "my-website"
 output_dir: "."
 navbar:
   title: "My Website"
+  type: inverse
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html  
     - text: "About"
+      icon: fa-info
       href: about.html
+      menu:
+        - text: "Research"
+          href: research.html
+        - text: "Courses"
+          href: courses.html
+        - text: "Projects"
+          href: projects.html
+  right: 
+    - text: "Textbooks"
+      href: textbooks.html  
+    - text: "Visualization"
+      href: visualization.html
+  
