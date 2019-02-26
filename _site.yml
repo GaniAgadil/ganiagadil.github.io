@@ -1,10 +1,10 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "AGADILSTATUS"
+  title: "STATUS"
   type: inverse
   left:
-    - text: "Home"
+    - text: "Main"
       icon: fa-home
       href: index.html  
     - text: "About"
