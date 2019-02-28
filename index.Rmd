@@ -6,7 +6,7 @@ Hello, I am Gani Agadilov! I am a graduate student of Department of Statistics.
 
 The link to my CV is [here]().
 
-```{r}
+```{r,fig.align = 'center'}
 options(scipen=999)  
 library(ggplot2)
 theme_set(theme_bw())
