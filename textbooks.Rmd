@@ -1,4 +1,4 @@
 ---
 title: "Textbooks"
 ---
- Textbooks section!
+ [Bayesian Data analysis](http://www.amazon.com/gp/product/1439840954/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1439840954&linkCode=as2&tag=jarnieassprod-20&linkId=3HFCNUPX52YW2EVV) 
