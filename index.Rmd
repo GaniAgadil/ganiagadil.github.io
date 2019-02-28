@@ -3,3 +3,6 @@ title: "Main"
 ---
       
 Hello, I am Gani Agadilov! I am a graduate student of Department of Statistics.
+
+The link to my CV is [here]().
+

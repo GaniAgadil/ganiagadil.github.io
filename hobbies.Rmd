@@ -2,4 +2,4 @@
 title: "Hobbies"
 ---
  Hobbies section!
- [Tenni](http://www.tennis.com) 
+ [Tennis](http://www.tennis.com) 
