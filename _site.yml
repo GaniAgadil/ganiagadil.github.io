@@ -26,4 +26,9 @@ navbar:
       href: https://github.com/GaniAgadil
     - text: "Hobbies"
       href: hobbies.html
+      output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    css: styles.css
   
