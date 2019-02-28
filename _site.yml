@@ -25,5 +25,5 @@ navbar:
     - icon: fa-github fa-lg
       href: https://github.com/yudizhangzyd
     - text: "Hobbies"
-      href: http://www.tennis.com
+      href: hobbies.html
   
