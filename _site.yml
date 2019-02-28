@@ -22,6 +22,6 @@ navbar:
       href: textbooks.html  
     - text: "Visualization"
       href: visualization.html
-      - text: "Hobbies"
+    - text: "Hobbies"
       href: http://www.tennis.com
   
