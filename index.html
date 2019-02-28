@@ -238,6 +238,27 @@ $(document).ready(function () {
 
 <p>Hello, I am Gani Agadilov! I am a graduate student of Department of Statistics.</p>
 <p>The link to my CV is <a href="">here</a>.</p>
+<pre class="r"><code>options(scipen=999)  
+library(ggplot2)
+theme_set(theme_bw())
+data(&quot;midwest&quot;, package = &quot;ggplot2&quot;)
+# midwest &lt;- read.csv(&quot;http://goo.gl/G1K41K&quot;)  
+
+gg &lt;- ggplot(midwest, aes(x=area, y=poptotal)) + 
+  geom_point(aes(col=state, size=popdensity)) + 
+  geom_smooth(method=&quot;loess&quot;, se=F) + 
+  xlim(c(0, 0.1)) + 
+  ylim(c(0, 500000)) + 
+  labs(subtitle=&quot;Area Vs Population&quot;, 
+       y=&quot;Population&quot;, 
+       x=&quot;Area&quot;, 
+       title=&quot;Scatterplot&quot;, 
+       caption = &quot;Source: midwest&quot;)
+
+plot(gg)</code></pre>
+<pre><code>## Warning: Removed 15 rows containing non-finite values (stat_smooth).</code></pre>
+<pre><code>## Warning: Removed 15 rows containing missing values (geom_point).</code></pre>
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 
 
 
