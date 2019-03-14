@@ -1,7 +1,8 @@
 ---
 title: "Main"
 ---
-      
+<img src= "logo.png" style="width:20%; border:10px solid; margin-right: 20px" align="right">   
+
 Hello, I am Gani Agadilov! I am a graduate student of Department of Statistics.
 
 The link to my CV is [here]().
